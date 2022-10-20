@@ -1,7 +1,7 @@
 import java.io.*;
 
 
-public class imatheraja
+public class rahulrr
 {
     public static void main(String[] args)throws IOException
     {
