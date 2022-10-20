@@ -2,7 +2,7 @@ import java.util.*;
 import java.util.List;
 import java.io.*;
 class Point
-{
+{	//initiating variables
 	int first, second;
 
 	public Point(int first, int second)
