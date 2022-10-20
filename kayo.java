@@ -1,6 +1,7 @@
 import java.io.*;
 
-public class sagefuckskayo
+
+public class jett
 {
     public static void main(String[] args)throws IOException
     {
