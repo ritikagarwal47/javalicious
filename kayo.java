@@ -1,7 +1,7 @@
 import java.io.*;
 
 
-public class brim
+public class imatheraja
 {
     public static void main(String[] args)throws IOException
     {
