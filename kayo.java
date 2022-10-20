@@ -1,7 +1,7 @@
 import java.io.*;
 
 
-public class jett
+public class brim
 {
     public static void main(String[] args)throws IOException
     {
