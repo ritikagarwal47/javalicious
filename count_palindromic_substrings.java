@@ -24,7 +24,6 @@ public class count_palindromic_substrings
 					else
 					{
 						dp[i][j]=false;
-						System.out.println("Hello");
 					}
 				}
 				else
