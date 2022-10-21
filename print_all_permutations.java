@@ -16,6 +16,7 @@ public class print_all_permutations
 				System.out.print(sb.charAt(r));
 				sb.deleteCharAt(r);
 				temp = q ;
+				System.out.println("HI");
 			}
 			System.out.println();
 		}
