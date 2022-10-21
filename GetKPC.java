@@ -9,7 +9,6 @@ public class GetKPC
 		String s = br.readLine();
 		ArrayList<String> ar = getKPC(s);
 		System.out.println(ar);
-		System.out.println("HI");
 	}
 	static String[] refer = {".;","abc","def","ghi","jkl","mno","pqrs","tu","vwx","yz"};
 	public static ArrayList<String> getKPC(String s)
