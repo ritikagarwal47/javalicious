@@ -15,6 +15,7 @@ class Main
 {
 	public static int[][] preprocess(int[][] mat, int M, int N)
 	{
+		System.out.println("Initializing");
 		int[][] sum = new int[mat.length][mat[0].length];
 		sum[0][0] = mat[0][0];
 		for (int j = 1; j < mat[0].length; j++) {
