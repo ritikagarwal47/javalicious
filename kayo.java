@@ -31,7 +31,6 @@ public class rahulrr
             {
                 i=j;
                 sb.append((i+1)+"");
-                System.out.println("All OK");
             }
             else
             {
