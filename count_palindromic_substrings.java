@@ -32,10 +32,6 @@ public class count_palindromic_substrings
 					{
 						dp[i][j]=true;
 					}
-					else
-					{
-						dp[i][j]=false;
-					}
 				}
 			}
 		}
