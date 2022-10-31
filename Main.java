@@ -81,15 +81,21 @@ class Main
 				SUM+=mat[r][c];
 			}
 		}
+		
 		System.out.println(SUM);
 	}
 	public static void main(String[] args)
 	{
 		BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+		
 		String s[] = br.readLine().split(" ");
+		
 		int m = Integer.parseInt(s[0]);
+		
 		int n = Integer.parseInt(s[1]);
+		
 		int[][] mat = new int[m][n];
+		
 		for(int i=0;i<m;i++)
 		{
 			String ar[]= br.readLine().split(" ");
