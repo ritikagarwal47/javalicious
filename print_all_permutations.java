@@ -29,7 +29,7 @@ public class print_all_permutations
 		{
 			pro *= i;
 		}
-		return pro;
+		
 	}
 	
 	public static void main(String[] args) {
