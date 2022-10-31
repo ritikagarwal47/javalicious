@@ -24,7 +24,7 @@ public class rahulrr
                 else
                 {
                     ok = false;
-                    break;
+                   
                 }
             }
             if(ok)
